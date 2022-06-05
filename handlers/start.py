@@ -20,7 +20,7 @@ async def start_(client: Client, message: Message):
 ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʜᴀɴᴅʟᴇʀs : ( `/ . • $ ^ ~ + * ?` )
 ┏━━━━━━━━━━━━━━┓
 ┣★
-┣★ ᴍᴀᴅᴇ ʙʏ: [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](t.me/{me})
+┣★ ᴍᴀᴅᴇ ʙʏ: [EmUnknown](t.me/{me})
 ┣★
 ┗━━━━━━━━━━━━━━┛
 
@@ -34,7 +34,7 @@ async def start_(client: Client, message: Message):
                        ),
                   ],[
                     InlineKeyboardButton(
-                        "💔 ᴏᴡɴᴇʀ 💔", url=f"https://t.me/{me}"
+                        "😊 ᴏᴡɴᴇʀ 💘", url=f"https://t.me/{me}"
                     ),
                     InlineKeyboardButton(
                         "🍒 sᴜᴘᴘᴏʀᴛ 🍒", url=f"https://t.me/{SUPPORT_GROUP}"
@@ -43,10 +43,3 @@ async def start_(client: Client, message: Message):
                     InlineKeyboardButton(
                         "🔎 ɪɴʟɪɴᴇ 🔎", switch_inline_query_current_chat=""
                     ),
-                    InlineKeyboardButton(
-                        "🤯 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​ 🤯", url="https://github.com/AnonymousR1025/FallenMusic"
-                    )]
-            ]
-       ),
-    )
-
